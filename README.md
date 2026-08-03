@@ -51,16 +51,16 @@ The framework includes:
 
 ### How to Run
 1. Clone the repository.
-2. 
-3. Open the project in VS Code or your preferred IDE.
-4. 
-5. Run from the terminal:
+
+2. Open the project in VS Code or your preferred IDE.
+
+3. Run from the terminal:
 
     o	mvn clean test -Dbrowser=chrome -Dheadless=true
    
     o	or mvn clean test -Dbrowser=chrome
    
-6. Reports are generated in the Reports/ folder. Each regression execution keeps every test result in the same HTML report, including explicit Passed, Failed, and Skipped entries.
+4. Reports are generated in the Reports/ folder. Each regression execution keeps every test result in the same HTML report, including explicit Passed, Failed, and Skipped entries.
 
 
 ### Project Structure
