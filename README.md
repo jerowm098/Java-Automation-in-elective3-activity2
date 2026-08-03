@@ -14,10 +14,10 @@ This project is a Selenium WebDriver automation framework for https://automation
 ### Project Description
 The framework includes:
 
-•	Browser setup and driver management using WebDriverManager.
-•	Page objects and action classes for the Automation Exercise website.
-•	Reusable base test features for reporting, screenshots, and assertions.
-•	TestNG suite execution with retry support.
+•	Browser setup and driver management using WebDriverManager. 
+•	Page objects and action classes for the Automation Exercise website. 
+•	Reusable base test features for reporting, screenshots, and assertions. 
+•	TestNG suite execution with retry support. 
 
 ### Technologies Used
 •	Java 11
