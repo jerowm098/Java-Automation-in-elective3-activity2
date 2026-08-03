@@ -9,14 +9,10 @@ This project is a Selenium WebDriver automation framework for https://automation
 
 ### Group Information
 
-•	Group Members: 
-
-•	Abiera Vincent, 
-
-•	Bayran Ceejay, 
-
-•	Luna, Marc Laurence, 
-
+•	Group Members:
+•	Abiera Vincent,
+•	Bayran Ceejay,
+•	Luna, Marc Laurence,
 •	Mallari, Jerome, 
 
 
