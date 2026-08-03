@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.TC18_ViewCategoryProductsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.001 s - in tests.TC18_ViewCategoryProductsTest

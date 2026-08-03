@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.TC07_VerifyTestCasesPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.567 s - in tests.TC07_VerifyTestCasesPageTest

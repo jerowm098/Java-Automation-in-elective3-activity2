@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.TC11_VerifySubscriptionInCartPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.019 s - in tests.TC11_VerifySubscriptionInCartPageTest

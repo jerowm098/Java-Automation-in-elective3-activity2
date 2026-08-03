@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.TC10_VerifySubscriptionInHomePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.132 s - in tests.TC10_VerifySubscriptionInHomePageTest
