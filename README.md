@@ -4,7 +4,7 @@
 ## Project Overview           
 This project is a Selenium WebDriver automation framework for https://automationexercise.com.     
 It uses Java, TestNG, Maven, and the Page Object Model (POM) design pattern.
-
+###
 ## Group Information       
 ### • Group Members:        
 • Abiera Vincent,     
