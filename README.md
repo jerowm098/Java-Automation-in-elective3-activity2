@@ -1,14 +1,22 @@
 # JAVA AUTOMATION FOR ELECTIVE 3 – LABORATORY ACTIVITY 2
 # Automation Exercise UI Test Framework
 
+
 ### Project Overview
+
 This project is a Selenium WebDriver automation framework for https://automationexercise.com. It uses Java, TestNG, Maven, and the Page Object Model (POM) design pattern.
 
+
 ### Group Information
+
 •	Group Members: 
+
 •	Abiera Vincent, 
+
 •	Bayran Ceejay, 
+
 •	Luna, Marc Laurence, 
+
 •	Mallari, Jerome, 
 
 ### Project Description
