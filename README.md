@@ -19,6 +19,7 @@ This project is a Selenium WebDriver automation framework for https://automation
 
 •	Mallari, Jerome, 
 
+
 ### Project Description
 
 The framework includes:
@@ -31,6 +32,7 @@ The framework includes:
  •	Reusable base test features for reporting, screenshots, and assertions. 
  
  •	TestNG suite execution with retry support. 
+
 
 ### Technologies Used
 
@@ -74,6 +76,7 @@ The framework includes:
 •	src/main/java/utils - Configuration, utilities, listeners, and retry logic.
 
 •	src/test/java - Test classes.
+
 
 ### Notes
 
